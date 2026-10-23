@@ -116,7 +116,7 @@ copy .env.example .env
 ```powershell
 python -m streamlit run app.py
 ```
-Open your browser to `http://localhost:8501`.
+Open your browser to `https://eightai.streamlit.app/.
 
 ---
 
